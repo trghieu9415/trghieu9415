@@ -6,9 +6,8 @@
 💻 **Fullstack Developer**  
 🎯 Passionate about building modular, scalable systems with clean architecture and solid engineering principles.
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
 - 🎓 Studying at **Saigon University**  
 - 💬 Ask me about **Clean Architecture**, **CQRS**, and **System Design**  
 - ⚡ Fun fact: *I spend more time refactoring than coding.*
@@ -23,9 +22,7 @@ Modular booking system built with **.NET**, **React**, and **Kafka**.
 Lightweight **Kafka event bus** library for **microservices**.  
 → Built with clean architecture and Avro-based schema registry support.
 
----
-
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Languages:** ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
@@ -57,23 +54,16 @@ Lightweight **Kafka event bus** library for **microservices**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trghieu9415&layout=compact&theme=transparent&hide_border=true" height="200" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=trghieu9415&theme=transparent&hide_border=true" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trghieu9415&theme=github-compact&hide_border=true&area=true" height="200" />
 </p>
 
----
-
-### 📫 Contact
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]()
 [![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)]()
 
----
-
-### 🍎 Bad Apple
+## 🍎 Bad Apple
 <p align="start">
   <img src="https://i.pinimg.com/originals/11/3c/37/113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation">
 </p>
