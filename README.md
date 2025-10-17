@@ -46,8 +46,8 @@ Lightweight **Kafka event bus** library for **microservices**.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trghieu9415&layout=compact&theme=transparent&hide_border=true" height="200" />
   <img src="https://streak-stats.demolab.com?user=trghieu9415&theme=transparent&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trghieu9415&layout=compact&theme=transparent&hide_border=true" height="200" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trghieu9415&theme=github-compact&hide_border=true&area=true" height="200" />
