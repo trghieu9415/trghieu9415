@@ -31,11 +31,11 @@ This project serves as my "laboratory" for orchestrating polyglot services (**Ja
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Languages** | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **Backend Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) |
 | **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white) ![Avro](https://img.shields.io/badge/Avro-D22128?logo=apache&logoColor=white) |
 | **Infrastructure & DB** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff) |
 
 ## 📊 GitHub Stats
 <p align="left">
@@ -48,8 +48,8 @@ This project serves as my "laboratory" for orchestrating polyglot services (**Ja
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white)]()
 
 <details>
-  <summary>🍎 Just for fun</summary>
+  <summary>🍎 J4F</summary>
   <div align="center">
-    <img src="https://i.pinimg.com/originals/11/3c/37/113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation" width="400">
+    <img src="113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation" width="400">
   </div>
 </details>
