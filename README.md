@@ -1,62 +1,55 @@
-<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Trg.%20Hiếu&fontAlign=50&fontAlignY=40&)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&pause=2000&color=6AA6F8&width=500&lines=Fullstack+Developer;Clean+Architecture+Enthusiast;Building+Modular+Systems;Refactors+More+Than+He+Codes;Event-Driven+Design+Advocate)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&pause=2000&color=6AA6F8&width=500&lines=Student+at+Saigon+University;Exploring+Software+Architecture;Building+Modular+Systems;Code+for+Humans,+Not+Just+Machines" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 About Me
-- 🎓 Studying at **Saigon University**  
-- 💬 Ask me about **Clean Architecture**, **CQRS**, and **System Design**  
-- ⚡ Fun fact: *I spend more time refactoring than coding.*
+- 🎓 Undergraduate Student at **Saigon University (SGU)**.
+- 🌱 Deeply interested in **Backend Engineering**, with a focus on **Clean Architecture**, **Domain-Driven Design (DDD)**, and **Microservices**.
+- 🔭 **Goal:** Writing code that works is not enough; I strive to write code that is maintainable, scalable, and easy for others to understand.
 
 ## 🚀 Featured Projects
-🧩 **[MBS Platform](https://google.com)**  
-Modular booking system built with **.NET**, **React**, and **Kafka**.  
-→ Implements modular architecture, CQRS, and event-driven design.
+*Selected projects where I apply theoretical concepts to real-world scenarios.*
 
-⚡ **[EventStream](https://google.com)**  
-Lightweight **Kafka event bus** library for **microservices**.  
-→ Built with clean architecture and Avro-based schema registry support.
+### 🛠️ [SGU Academic Helper](https://gpa-schedule-svsgu.netlify.app/calculator)
+*A utility toolkit for university students.*
+Built to help my peers (and myself) manage academic life more efficiently. This tool simplifies GPA calculations and course scheduling.
+- **Features:** [GPA Calculator](https://gpa-schedule-svsgu.netlify.app/calculator) & [Automatic Course Scheduler](https://gpa-schedule-svsgu.netlify.app/scheduler).
+- **Tech Stack:** React, TypeScript.
+- **Status:** Production (Live) 🟢
+
+### 🧪 Polyglot Microservices Lab (Research)
+*A deep-dive research project into Distributed Systems.*
+This project serves as my "laboratory" for orchestrating polyglot services (**Java & .NET**) and solving complex data consistency challenges.
+- **Challenge:** Handling Distributed Transactions and ensuring Data Consistency across heterogeneous services.
+- **Solution:** Implemented an **Event-Driven Architecture** using Kafka (KRaft mode), **CDC** (Debezium), and **gRPC** for internal communication.
+- **Infrastructure:** Docker, Keycloak (Auth), Kafka Schema Registry (Avro).
 
 ## 🧰 Tech Stack
-**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+*Tools and technologies I am currently exploring and using:*
 
-**Backend:** ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Avro](https://img.shields.io/badge/Avro-D22128?logo=apache&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST-FF6C37?logo=swagger&logoColor=white)
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) |
+| **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white) ![Avro](https://img.shields.io/badge/Avro-D22128?logo=apache&logoColor=white) |
+| **Infrastructure & DB** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
 
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=react&logoColor=white)
-
-**Database:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-
-**Architecture:** 
-![Hexagonal](https://img.shields.io/badge/Hexagonal-00897B?logo=archlinux&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-607D8B?logo=diagram&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FFA000?logo=microgenetics&logoColor=white)
-![Layered](https://img.shields.io/badge/Layered-9C27B0?logo=stackshare&logoColor=white)
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=trghieu9415&theme=transparent&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trghieu9415&layout=compact&theme=transparent&hide_border=true" height="200" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trghieu9415&theme=github-compact&hide_border=true&area=true" height="200" />
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=trghieu9415&theme=transparent&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trghieu9415&layout=compact&theme=transparent&hide_border=true" height="180" />
 </p>
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]()
-[![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)]()
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white)]()
 
-## 🍎 Bad Apple
-<img src="https://i.pinimg.com/originals/11/3c/37/113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation">
+<details>
+  <summary>🍎 Just for fun</summary>
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/11/3c/37/113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation" width="400">
+  </div>
+</details>
