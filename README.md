@@ -16,7 +16,7 @@
 *A utility toolkit for university students.*
 Built to help my peers (and myself) manage academic life more efficiently. This tool simplifies GPA calculations and course scheduling.
 - **Features:** [GPA Calculator](https://gpa-schedule-svsgu.netlify.app/calculator) & [Automatic Course Scheduler](https://gpa-schedule-svsgu.netlify.app/scheduler).
-- **Tech Stack:** React, TypeScript.
+- **Tech Stack:** React, TypeScript, shadcn/ui.
 - **Status:** Production (Live) 🟢
 
 ### 🧪 Polyglot Microservices Lab (Research)
@@ -47,9 +47,12 @@ This project serves as my "laboratory" for orchestrating polyglot services (**Ja
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white)]()
 
+
+## 🍎 J4F
 <details>
-  <summary>🍎 J4F</summary>
-  <div align="center">
-    <img src="113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation" width="400">
+  <summary></summary>
+  <div align="start">
+    <img src="113c37e46e35619ae54f555f1d7cc92e.gif" alt="Bad Apple!! ASCII Animation" height="180">
   </div>
 </details>
+
