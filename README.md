@@ -19,12 +19,12 @@ Built to help my peers (and myself) manage academic life more efficiently. This 
 - **Tech Stack:** React, TypeScript, shadcn/ui.
 - **Status:** Production (Live) 🟢
 
-### 🧪 Polyglot Microservices Lab (Research)
-*A deep-dive research project into Distributed Systems.*
-This project serves as my "laboratory" for orchestrating polyglot services (**Java & .NET**) and solving complex data consistency challenges.
-- **Challenge:** Handling Distributed Transactions and ensuring Data Consistency across heterogeneous services.
-- **Solution:** Implemented an **Event-Driven Architecture** using Kafka (KRaft mode), **CDC** (Debezium), and **gRPC** for internal communication.
-- **Infrastructure:** Docker, Keycloak (Auth), Kafka Schema Registry (Avro).
+### ⚖️ [Bidding Online System](https://github.com/trghieu9415/bidding-onl)
+*A scalable backend platform for online auctions.*
+Engineered with a strong focus on maintainable software architecture to resolve complex system challenges, including high-concurrency workflows and real-time user interactions.
+- **Features:** Real-time Bidding Engine, Concurrency Control (handling simultaneous bids), Strict Data Consistency, and Data Synchronization.
+- **Tech Stack:** .NET 9, SignalR, Clean Architecture, Event-Driven, CQRS, EF Core, PostgreSQL.
+- **Status:** In Development 🟡
 
 ## 🧰 Tech Stack
 *Tools and technologies I am currently exploring and using:*
