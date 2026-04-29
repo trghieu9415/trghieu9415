@@ -43,8 +43,8 @@ Engineered with a strong focus on maintainable software architecture to resolve 
 </p>
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trghieu9415)
+[![Gmail](https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white)](bt.hieu454@gmail.com)
 
 
 ## 🍎 J4F
